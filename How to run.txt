@@ -1,0 +1,6 @@
+How to run
+
+1. dump data from file create-table.sql
+2. config database connection on .env file 
+3. run terminal/cmd php artisan serve
+4. Import postman collection from DIYO,postman_collection.json
